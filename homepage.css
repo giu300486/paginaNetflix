@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 header{background-image:url("IT-it-20210111-popsignuptwoweeks-perspective_alpha_website_small.jpg");
        height:100%;
 	   background-repeat:no-repeat;
@@ -7,17 +7,71 @@ header{background-image:url("IT-it-20210111-popsignuptwoweeks-perspective_alpha_
 	   
 #Descr{padding-top:30%;}
 
-=======
+
+h3 {
+	margin-left: 235px;
+}
+
+
 #paragrafo {
+		margin-left: 235px;
+		margin-top: 150px;
 		color: grey;
 		font-size: 15px;
 	}
 
-	#elenco {
-		color:grey;
+li{
+	margin-top:5px;
+}
+
+#bottoni{
+	margin-top: 150px;
+	margin-left: 235px;
 	
-	}
+}
+
+#contenitore{
+	margin-left: 60px;
+	position:relative;
+	max-width: 2000px;
+	height: 100px;
+}
 	
+#elenco1{
+	position:absolute;
+	list-style:none;
+	margin-left:138px;
+	margin-top:60px;
+}
+#elenco2{
+	position:absolute;
+	list-style:none;
+	margin-left:500px;
+	margin-top: 50px;
+
+}
+#elenco3{
+	position:absolute;
+	list-style:none;
+	margin-left:900px;
+	margin-top: 30px;
+}
+
+#elenco4{
+	position:absolute;
+	list-style:none;
+	margin-left:1300px;
+}
+
+
+
+
+
+
+
+
+
+
 a:link {
 	color: grey;
 	text-decoration:none;
@@ -39,5 +93,4 @@ a:active {
 }
 .huno {
 	font-family: "Trebuchet MS";
-}
->>>>>>> 148cb375d8abb74c7a72fa661557ad253a872640
+}	
