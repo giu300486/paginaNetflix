@@ -30,17 +30,22 @@ a:visited {
 a:hover {
 	background-color: #FFFFCC;
 }
-h1 {
-        font-size:20pt; 
-		font-family:Helvetica;
-        padding-top:1em;
-        padding-bottom:1em;
-        padding-left:1em;
+h1 {    color:red;
+        font-size:30pt; 
+		font-family:Verdana;
+        padding-top:0.1em;
+        padding-bottom:0.1em;
+        padding-left:0.1em;
 }
 
 h2 { 
+     background-color:grey;
      color:white;
      font-size:32 px;
      font-family:Helvetica;
+}
+div {
+	margin-left:10%;
+	margin-right:10%;
 }
 
