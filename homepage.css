@@ -1,6 +1,16 @@
+header{background-image:url("IT-it-20210111-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+       height:100%;
+	   background-repeat:no-repeat;
+	   background-size:100% 100%;
+	   color:white;}
+	   
+#Descr{padding-top:30%;}
+
+
 h3 {
 	margin-left: 235px;
 }
+
 
 #paragrafo {
 		margin-left: 235px;
@@ -82,4 +92,4 @@ a:active {
 }
 .huno {
 	font-family: "Trebuchet MS";
-}
+}	
