@@ -1,11 +1,56 @@
 header{background-image:url("IT-it-20210111-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+
        height:100%;
 	   background-repeat:no-repeat;
 	   background-size:100% 100%;
-	   color:white;}
+	   color:white;
+	   font-size:20;
+	   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;}
 	   
-#Descr{padding-top:30%;}
+#Titolo button{position:absolute;
+top:3%;
+right:3%;
+color:white;
+background-color:red;
+width:80;
+height:40;
 
+}
+
+button { border-radius: 5px; }
+#Descr{padding:5%;
+text-align:center;}
+
+#mail{display: inline-block;}
+
+#cta button {display: inline-block;}
+
+
+button a:link {
+	color: white;
+	text-decoration:none;
+}
+
+button a:visited {
+	color: white;
+	text-decoration:none;
+}
+
+button a:hover {
+	color: white;
+	text-decoration:underline;
+}
+
+button a:active {
+	color: white;
+text-decoration:none;}
+	   
+	   
+
+
+#Cta{position:relative;
+top:1%;
+text-align:center;}
 
 h3 {
 	margin-left: 235px;
