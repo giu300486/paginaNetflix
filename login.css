@@ -1,14 +1,32 @@
-h1 {
-	font-size:20pt;
-	background-color: red;
-	font-family:Helvetica;
-	padding-top:1em;
-    padding-bottom:1em;
-	padding-left:1em;
-}   
-
-h2 { color:white;
-     font-size:32 px;
-     font-family:Helvetica;
+html{
+	background-image: url("desktop/netfilx.jpg");
+	height: 100%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#transbox {
+	background-color: #ffffff;
+	border: 1px solid trasparent;
+	opacity: 0.6;
 }
 
+span{
+	background-image:url("images/facebook_16.png");
+	background-repeat: no-repeat;
+	list-style: none;
+	display: inline-block;
+	padding-right:0.25em;
+	border-bottom: dotted;
+}
+a:link {
+   font-weight: bold;
+   color: #47B3D7;
+}
+
+a:visited {
+	color: #BB78FF;
+}
+a:hover {
+	background-color: #FFFFCC;
+}
