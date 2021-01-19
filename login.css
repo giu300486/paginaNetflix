@@ -27,11 +27,11 @@ a:hover {
 	background-color: #FFFFCC;
 }
 h1 {    color:red;
-        font-size:30pt; 
+        font-size:40pt; 
 		font-family:Verdana;
         padding-top:0.1em;
         padding-bottom:0.1em;
-        padding-left:0.1em;
+        padding-left:0.3em;
 }
 
 h2 { 
@@ -55,4 +55,16 @@ form{
 div p{
 	text-align: left;
 }
+footer {
+	color:#757575;
+	background-color:black;
+	border: 1px solid trasparent;
+	opacity: 0.9;
+	width:100%;
+	
+}
+ul li {
+	vertical-align:baseline;
+}
+
 
