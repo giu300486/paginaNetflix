@@ -1,5 +1,5 @@
 html{
-	background-image: url("desktop/netfilx.jpg");
+	background-image:url("netflix.jpg");
 	height: 100%; 
 	background-position: center;
 	background-repeat: no-repeat;
@@ -9,15 +9,6 @@ html{
 	background-color: #ffffff;
 	border: 1px solid trasparent;
 	opacity: 0.6;
-}
-
-span{
-	background-image:url("images/facebook_16.png");
-	background-repeat: no-repeat;
-	list-style: none;
-	display: inline-block;
-	padding-right:0.25em;
-	border-bottom: dotted;
 }
 a:link {
    font-weight: bold;
@@ -42,5 +33,11 @@ h2 {
      color:white;
      font-size:32 px;
      font-family:Helvetica;
+}
+button{
+	background-color:red;
+	color: white;
+	text-align: center;
+	
 }
 
