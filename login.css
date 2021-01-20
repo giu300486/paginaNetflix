@@ -1,9 +1,14 @@
 html{
 	background-image:url("netflix.jpg");
-	height: 100%; 
+	height: 121%; 
 	background-position: center;
 	background-repeat: no-repeat;
+<<<<<<< HEAD
 	background-size: 100% 200%;
+=======
+	background-size: 100% 100%;
+	background:auto;
+>>>>>>> f7dfe1c5959d7f51df60befedc6829724c3e88e1
 }
 #transbox {
 	background-color: black;
@@ -17,7 +22,7 @@ html{
 }
 a:link {
    font-weight: bold;
-   color: #47B3D7;
+   color: grey;
 }
 
 a:visited {
@@ -59,11 +64,18 @@ div p{
 footer {
 	color:#757575;
 	background-color:black;
-	border: 1px solid trasparent;
+	border: 1px solid trasparent; 
 	opacity: 0.9;
 	width:100%;
 	
 }
+
+#Domande {
+	position:absolute;
+	margin-left:7.5em;
+	list-style:none;
+	
+
 ul li {
 	vertical-align:baseline;
 	list-style: none;
@@ -71,5 +83,36 @@ ul li {
 
 nav {
 	color:white;
+
 }
 
+#Centro {
+	position:absolute
+	margin-left:30em;
+	list-style:none;
+}
+#Condizioni {
+	list-style:none;
+	margin-left:50em;
+	position:absolute;
+}
+#Privacy {
+	position:absolute;
+	margin-left:70em;
+    list-style:none;
+}
+#Preferenze {
+	position:absolute;
+	 margin-left:7.5em;
+	 list-style:none;
+}
+#Informazioni  {
+	
+	position:absolute;
+	margin-left:30em;
+	list-style:none;
+}
+footer p {
+	color:grey;
+	margin-left:10em;
+}
