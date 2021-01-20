@@ -3,12 +3,10 @@ html{
 	height: 121%; 
 	background-position: center;
 	background-repeat: no-repeat;
-<<<<<<< HEAD
+
 	background-size: 100% 200%;
-=======
-	background-size: 100% 100%;
+
 	background:auto;
->>>>>>> f7dfe1c5959d7f51df60befedc6829724c3e88e1
 }
 #transbox {
 	background-color: black;
@@ -74,12 +72,8 @@ footer {
 	position:absolute;
 	margin-left:7.5em;
 	list-style:none;
-	
-
-ul li {
-	vertical-align:baseline;
-	list-style: none;
 }
+
 
 nav {
 	color:white;
