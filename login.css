@@ -47,7 +47,7 @@ h2 {
 	background-color: red;
 	color:white;
 	border: 2px solid red;
-	padding: 5px;/*ho aggiunto il padding perché sì*/
+	padding: 5px;
 }
 p{
 	color:white;
@@ -68,11 +68,13 @@ footer {
 	
 }
 
+
 #Domande {
 	position:absolute;
 	margin-left:7.5em;
 	list-style:none;
 }
+
 
 
 nav {
@@ -81,7 +83,7 @@ nav {
 }
 
 #Centro {
-	position:absolute
+	position:absolute;
 	margin-left:30em;
 	list-style:none;
 }
