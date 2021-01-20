@@ -32,14 +32,65 @@ text-align:center;}
 top:1%;
 text-align:center;}
 
+#bordsez1{
+	
+	border-top: 8px solid #303030;
+}
+#sezione1{
+	position:relative;
+	background: url(tv.png) no-repeat;
+	background-position: 480px -13px;
+	margin-bottom:100px;
+	margin-right:-300px;
+	text-align: left;
+	margin-bottom:50px;
+	margin-left:410px;
+}
+
+#bordsez2{
+	border-bottom: 8px solid #303030;
+	margin-bottom: 100px;
+	
+}
+
+#sezione2{
+	position:relative;
+	background: url(mobile-0819.jpg) no-repeat;
+	background-position: 300px -60px;
+	margin-bottom:100px;
+	margin-right:-300px;
+	text-align: center;
+}
+
+#bordsez3{
+		border-bottom: 8px solid #303030;
+}
+
+#sezione3{
+	
+	background: url(device-pilemod.png) no-repeat;
+	position:relative;
+	background-position: 480px -13px;
+	margin-bottom:100px;
+	margin-left: 410px;
+	text-align: left;
+}
+
+#bordsez4{
+	border-bottom: 8px solid #303030;
+}
+	
+	
+
 #bordfooter{
 	border-top: 8px solid #303030;
-	margin-bottom:20px;
+	margin-bottom:50px;
 	
 }
 
 #h3footer {
 	margin-left: 235px;
+	margin-top: 50px;
 	color:grey;
 }
 
@@ -52,7 +103,7 @@ text-align:center;}
 	}
 
 li{
-	margin-top:5px;
+	margin-top:10px;
 }
 
 #bottoni{
@@ -150,8 +201,28 @@ a:active {
 	color: grey;
 	text-decoration:none;
 }
-.huno {
+#goditi {
+	color:white;
 	font-family: "Trebuchet MS";
+	font-size: 50px;
 }	
 
+#scarica {
+	
+	color:white;
+	font-family: "Trebuchet MS";
+	font-size: 50px;
+}	
 
+#guarda {
+	
+	color:white;
+	font-family: "Trebuchet MS";
+	font-size: 50px;
+}	
+
+.htre{
+	
+	color:white;
+	font-size:20px;
+}
