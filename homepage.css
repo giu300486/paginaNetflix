@@ -217,6 +217,13 @@ li{
 	list-style:none;
 	margin-left:1300px;
 }
+body {
+	background-color: #0f0f0f;
+}
+article {
+	color: #fff;
+	background-color: #0f0f0f;
+}
 
 footer{
 	background-color:black;
