@@ -92,6 +92,28 @@ text-align:center;}
 
 p{color:white;}
 
+#domande {
+	color: white;
+	text-align:center;
+	margin: 20px 150px 20px 150px;
+}
+#EMail {
+	color: white;
+	text-align: center;
+}
+#mail2 {
+	width: 40%;
+	height:5%;
+}
+#EMail button {
+	display: inline-block;
+	color:white;
+	background-color:red;
+	border-color:red;
+}
+.ask {
+	font-size: x-large;
+}
 
 
 
