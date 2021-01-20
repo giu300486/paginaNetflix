@@ -1,12 +1,22 @@
 header{background-image:url("IT-it-20210111-popsignuptwoweeks-perspective_alpha_website_small.jpg");
-
+       
        height:100%;
 	   background-repeat:no-repeat;
 	   background-size:100% 100%;
 	   color:white;
 	   font-size:20;
+	   border:0 !important;
 	   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;}
+
+	  
+	  
+html{
+	background-color:black;
+}
+
 	   
+
+
 #Titolo button{position:absolute;
 top:3%;
 right:3%;
@@ -14,65 +24,144 @@ color:white;
 background-color:red;
 width:80;
 height:40;
-
+border-color:red;
 }
+
 
 button { border-radius: 5px; }
 #Descr{padding:5%;
 text-align:center;}
 
-#mail{display: inline-block;}
-
-#cta button {display: inline-block;}
-
-
-button a:link {
-	color: white;
-	text-decoration:none;
+#mail{display: inline-block;
 }
 
-button a:visited {
-	color: white;
-	text-decoration:none;
-}
-
-button a:hover {
-	color: white;
-	text-decoration:underline;
-}
-
-button a:active {
-	color: white;
-text-decoration:none;}
-	   
-	   
-
+#cta button {display: inline-block;
+color:white;
+background-color:red;
+border-color:red;}
 
 #Cta{position:relative;
 top:1%;
 text-align:center;}
 
-h3 {
+
+#bordsez1{
+	
+	border-top: 8px solid #303030;
+}
+#sezione1{
+	position:relative;
+	background: url(tv.png) no-repeat;
+	background-position: 480px -13px;
+	margin-bottom:100px;
+	margin-right:-300px;
+	text-align: left;
+	margin-bottom:50px;
+	margin-left:410px;
+}
+
+#bordsez2{
+	border-bottom: 8px solid #303030;
+	margin-bottom: 100px;
+	
+}
+
+#sezione2{
+	position:relative;
+	background: url(mobile-0819.jpg) no-repeat;
+	background-position: 300px -60px;
+	margin-bottom:100px;
+	margin-right:-300px;
+	text-align: center;
+}
+
+#bordsez3{
+		border-bottom: 8px solid #303030;
+}
+
+#sezione3{
+	
+	background: url(device-pilemod.png) no-repeat;
+	position:relative;
+	background-position: 480px -13px;
+	margin-bottom:100px;
+	margin-left: 410px;
+	text-align: left;
+}
+
+
+p{color:white;}
+
+
+
+
+#bordsez4{
+	border-bottom: 8px solid #303030;
+}
+	
+	
+
+#bordfooter{
+	border-top: 8px solid #303030;
+	margin-bottom:50px;
+	
+}
+
+#h3footer {
 	margin-left: 235px;
+	margin-top: 50px;
+	color:grey;
 }
 
 
 #paragrafo {
 		margin-left: 235px;
-		margin-top: 150px;
+		margin-top: 20px;
 		color: grey;
 		font-size: 15px;
 	}
 
 li{
-	margin-top:5px;
+	margin-top:10px;
 }
 
 #bottoni{
+	
 	margin-top: 150px;
 	margin-left: 235px;
-	
 }
+
+#bottone1{
+			border:1px solid grey;
+			background-color:black;
+			width:150px;
+			height:50px;
+			margin-bottom:3px;
+			background: url(iconfinder_globe-01_186398.png) no-repeat;
+			background-position: 25px 18px;
+
+}
+
+#bottone2{
+			border:1px solid grey;
+			background-color:black;
+			width:150px;
+			height:50px;
+			background: url(iconfinder_globe-01_186398.png) no-repeat;
+			background-position: 25px 18px;
+}
+
+#paragrafolingua{
+	color: grey;
+	font-size:15px;
+}
+
+#paragrafolingua2{
+	color: grey;
+	font-size:15px;
+}
+	
+	
 
 #contenitore{
 	margin-left: 60px;
@@ -114,13 +203,9 @@ article {
 	background-color: #0f0f0f;
 }
 
-
-
-
-
-
-
-
+footer{
+	background-color:black;
+}
 
 
 a:link {
@@ -142,17 +227,28 @@ a:active {
 	color: grey;
 	text-decoration:none;
 }
-.huno {
-	margin-left: 60px;
+#goditi {
+	color:white;
 	font-family: "Trebuchet MS";
-	font-size: x-large;
+	font-size: 50px;
 }	
+
+#scarica {
+	
+	color:white;
+	font-family: "Trebuchet MS";
+	font-size: 50px;
+}	
+
+#guarda {
+	
+	color:white;
+	font-family: "Trebuchet MS";
+	font-size: 50px;
+}	
+
 .htre{
-	margin-left: 60px;
-}
-.ask {
-	margin-left: 60px;
-}
-.ask+p {
-	margin-left: 60px;
+	
+	color:white;
+	font-size:25px;
 }
