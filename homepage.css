@@ -6,7 +6,7 @@ header{background-image:url("IT-it-20210111-popsignuptwoweeks-perspective_alpha_
 	   color:white;
 	   font-size:20;
 	   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;}
-	   
+	  
 #Titolo button{position:absolute;
 top:3%;
 right:3%;
@@ -14,7 +14,6 @@ color:white;
 background-color:red;
 width:80;
 height:40;
-
 }
 
 button { border-radius: 5px; }
@@ -52,8 +51,9 @@ text-decoration:none;}
 top:1%;
 text-align:center;}
 
-h3 {
+#h3footer {
 	margin-left: 235px;
+	color:grey;
 }
 
 
@@ -69,10 +69,37 @@ li{
 }
 
 #bottoni{
+	
 	margin-top: 150px;
 	margin-left: 235px;
-	
 }
+
+#bottone1{
+			border:1px solid grey;
+			background-color:black;
+			width:150px;
+			height:50px;
+			margin-bottom:3px;
+}
+
+#bottone2{
+			border:1px solid grey;
+			background-color:black;
+			width:150px;
+			height:50px;
+}
+
+#paragrafolingua{
+	color: grey;
+	font-size:15px;
+}
+
+#paragrafolingua2{
+	color: grey;
+	font-size:15px;
+}
+	
+	
 
 #contenitore{
 	margin-left: 60px;
@@ -107,13 +134,9 @@ li{
 	margin-left:1300px;
 }
 
-
-
-
-
-
-
-
+footer{
+	background-color:black;
+}
 
 
 a:link {
@@ -138,3 +161,5 @@ a:active {
 .huno {
 	font-family: "Trebuchet MS";
 }	
+
+
