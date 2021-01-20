@@ -44,7 +44,7 @@ h2 {
 	background-color: red;
 	color:white;
 	border: 2px solid red;
-	padding: 5px;/*ho aggiunto il padding perché sì*/
+	padding: 5px;
 }
 p{
 	color:white;
@@ -63,10 +63,6 @@ footer {
 	opacity: 0.9;
 	width:100%;
 	
-}
-ul li {
-	vertical-align:baseline;
-	list-style: none;
 }
 
 nav {
