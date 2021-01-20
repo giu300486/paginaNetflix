@@ -106,6 +106,13 @@ li{
 	list-style:none;
 	margin-left:1300px;
 }
+body {
+	background-color: #0f0f0f;
+}
+article {
+	color: #fff;
+	background-color: #0f0f0f;
+}
 
 
 
@@ -136,5 +143,16 @@ a:active {
 	text-decoration:none;
 }
 .huno {
+	margin-left: 60px;
 	font-family: "Trebuchet MS";
+	font-size: x-large;
 }	
+.htre{
+	margin-left: 60px;
+}
+.ask {
+	margin-left: 60px;
+}
+.ask+p {
+	margin-left: 60px;
+}
