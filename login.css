@@ -11,7 +11,7 @@ html{
 	opacity: 0.6;
 	margin: auto;
 	width: 50%;
-	border: 3px solid black;
+	
 	padding: 10px;
 	text-align:center;
 }
@@ -40,10 +40,11 @@ h2 {
      font-size:32 px;
      font-family:Helvetica;
 }
-button{
+ #accedi input{
 	background-color: red;
 	color:white;
-	border: 1px solid red;
+	border: 2px solid red;
+	padding: 5px;/*ho aggiunto il padding perché sì*/
 }
 p{
 	color:white;
@@ -65,6 +66,10 @@ footer {
 }
 ul li {
 	vertical-align:baseline;
+	list-style: none;
 }
 
+nav {
+	color:white;
+}
 
