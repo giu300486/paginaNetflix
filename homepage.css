@@ -7,6 +7,10 @@ header{background-image:url("IT-it-20210111-popsignuptwoweeks-perspective_alpha_
 	   font-size:20;
 	   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;}
 	  
+	  
+html{
+	background-color:black;
+}
 #Titolo button{position:absolute;
 top:3%;
 right:3%;
@@ -24,32 +28,15 @@ text-align:center;}
 
 #cta button {display: inline-block;}
 
-
-button a:link {
-	color: white;
-	text-decoration:none;
-}
-
-button a:visited {
-	color: white;
-	text-decoration:none;
-}
-
-button a:hover {
-	color: white;
-	text-decoration:underline;
-}
-
-button a:active {
-	color: white;
-text-decoration:none;}
-	   
-	   
-
-
 #Cta{position:relative;
 top:1%;
 text-align:center;}
+
+#bordfooter{
+	border-top: 8px solid #303030;
+	margin-bottom:20px;
+	
+}
 
 #h3footer {
 	margin-left: 235px;
@@ -59,7 +46,7 @@ text-align:center;}
 
 #paragrafo {
 		margin-left: 235px;
-		margin-top: 150px;
+		margin-top: 20px;
 		color: grey;
 		font-size: 15px;
 	}
@@ -80,6 +67,9 @@ li{
 			width:150px;
 			height:50px;
 			margin-bottom:3px;
+			background: url(iconfinder_globe-01_186398.png) no-repeat;
+			background-position: 25px 18px;
+
 }
 
 #bottone2{
@@ -87,6 +77,8 @@ li{
 			background-color:black;
 			width:150px;
 			height:50px;
+			background: url(iconfinder_globe-01_186398.png) no-repeat;
+			background-position: 25px 18px;
 }
 
 #paragrafolingua{
