@@ -71,11 +71,13 @@ div p{
 	text-align: left;
 }
 footer {
-	color:#757575;
+	
 	background-color:black;
-	border: 1px solid trasparent; 
 	opacity: 0.9;
-	width:100%;
+	width:100.63%;
+	margin-left:-5px;
+	margin-top:150px;
+	height:70%;
 	
 }
 
@@ -107,29 +109,37 @@ nav {
 #Centro {
 	position:absolute;
 	margin-left:30em;
+	margin-top:-20px;
 	list-style:none;
 }
 #Condizioni {
 	list-style:none;
 	margin-left:50em;
 	position:absolute;
+	margin-top:-36.5px;
 }
 #Privacy {
 	position:absolute;
 	margin-left:70em;
+	margin-top:-53.7px;
     list-style:none;
 }
 #Preferenze {
 	position:absolute;
 	 margin-left:7.5em;
+	  margin-top:-30px;
 	 list-style:none;
 }
 #Informazioni  {	
 	position:absolute;
 	margin-left:30em;
+	margin-top:-47px;
 	list-style:none;
 }
 footer p {
+	position:relative;
 	color:grey;
 	margin-left:10em;
+	padding-top:0.2em;
+	font-family:Helvetica;
 }
