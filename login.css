@@ -3,28 +3,25 @@ html{
 	height: 121%; 
 	background-position: center;
 	background-repeat: no-repeat;
-
 	background-size: 100% 200%;
-
-	background:auto;
+    background:auto;
 }
 #transbox {
 	background-color: black;
 	border: 1px solid trasparent;
-	opacity: 0.6;
+	opacity: 0.8;
 	margin: auto;
-	width: 50%;
-	
-	padding: 10px;
+	width: 25%;
+	padding:2em;
 	text-align:center;
 }
 a:link {
    font-weight: bold;
-   color: grey;
+   color:grey;
 }
 
 a:visited {
-	color: #BB78FF;
+	color:grey;
 }
 a:hover {
 	background-color: #FFFFCC;
@@ -43,6 +40,7 @@ h2 {
      font-size:32 px;
      font-family:Helvetica;
 }
+
  #accedi input{
 	background-color: red;
 	color:white;
@@ -56,16 +54,21 @@ form{
 	color:white;
 	text-align: center;
 }
+nav {
+	color:white;
+}
 div p{
 	text-align: left;
 }
+
 footer {
-	color:#757575;
-	background-color:black;
-	border: 1px solid trasparent; 
-	opacity: 0.9;
-	width:100%;
 	
+	background-color:black;
+	opacity: 0.9;
+	width:100.63%;
+	margin-left:-5px;
+	margin-top:150px;
+	height:70%;
 }
 
 
@@ -75,40 +78,43 @@ footer {
 	list-style:none;
 }
 
-
-
-nav {
-	color:white;
-
-}
-
 #Centro {
 	position:absolute;
 	margin-left:30em;
+	margin-top:-20px;
 	list-style:none;
 }
 #Condizioni {
 	list-style:none;
 	margin-left:50em;
 	position:absolute;
+	margin-top:-36.5px;
 }
+
 #Privacy {
 	position:absolute;
 	margin-left:70em;
+	margin-top:-53.7px;
     list-style:none;
 }
 #Preferenze {
 	position:absolute;
 	 margin-left:7.5em;
+	 margin-top:-30px;
 	 list-style:none;
 }
 #Informazioni  {
 	
 	position:absolute;
 	margin-left:30em;
+	margin-top:-47px;
 	list-style:none;
 }
 footer p {
+	position:relative;
 	color:grey;
 	margin-left:10em;
+	padding-top:0.2em;
+	font-family:Helvetica;
+	
 }
