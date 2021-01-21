@@ -1,0 +1,25 @@
+.bg-light {background-color: transparent !important;
+}
+
+
+
+Header H1{color:white;
+margin-top:15%;font-weight:bold !important;}
+Header H2{color:white;margin-bottom:2%;font-weight:bold !important;}
+Header H3 {color:white; !important;
+font-size:18;}
+
+header{background-image:url("IT-it-20210111-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+        text-align:center;
+		font-weight:bold !important;
+       height:100%;
+	   background-repeat:no-repeat;
+	   background-size:100% 100%;
+	   color:white;
+	   font-size:40;
+	   border:0 !important;
+	   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;}
+	   
+#form{width:100% !important;
+text-align:center !important;
+padding:0% 20% 0% 20%;}
