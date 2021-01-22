@@ -1,0 +1,144 @@
+html{
+	background-image:url("netflix.jpg");
+	height: 121%; 
+	background-position: center;
+	background-repeat: no-repeat;
+
+	background-size: 100% 200%;
+
+	background:auto;
+}
+#transbox {
+	background-color: black;
+	border: 1px solid trasparent;
+	opacity: 0.9;
+	margin: auto;
+	width: 25% ;
+	
+	padding: 2em;
+	text-align:center;
+}
+a:link {
+   font-weight: bold;
+   color: grey;
+}
+
+a:visited {
+	color: grey;
+}
+a:hover {
+	background-color: #FFFFCC;
+}
+h1 {    color:red;
+        font-size:40pt; 
+		font-family:Verdana;
+        padding-top:0.1em;
+        padding-bottom:0.1em;
+        padding-left:0.3em;
+}
+
+h2 { 
+	text-align: left;
+     color:white;
+     font-size:32 px;
+     font-family:Helvetica;
+	 padding-left:0.5em;
+}
+ #accedi input{
+	background-color: red;
+	color:white;
+	border: 2px solid red;
+	padding: 5px;
+	width: 20.5em;
+}
+#p1{
+	padding-left:1em;
+	padding-top:1em;
+}
+#p2{
+	padding-left:1.25em;
+	font-size:0.75em;
+	
+}
+p{
+	color:white;
+}
+form{
+	color:white;
+	text-align: center;
+}
+div p{
+	text-align: left;
+}
+footer {
+	
+	background-color:black;
+	opacity: 0.9;
+	width:100.63%;
+	margin-left:-5px;
+	margin-top:150px;
+	height:70%;
+	
+}
+
+#Domande {
+	position:absolute;
+	margin-left:7.5em;
+	list-style:none;
+}
+#Help{
+	padding-left:6.5em;
+}
+#User{
+	width: 20em;
+	padding-top:0.5em;
+	background-color: grey;
+}
+#Password{
+	width: 20em;
+	padding-top:0.5em;
+	background-color: grey;
+}
+nav {
+	color:white;
+	padding-top: 1em;
+	padding-bottom:1em;
+}
+
+#Centro {
+	position:absolute;
+	margin-left:30em;
+	margin-top:-20px;
+	list-style:none;
+}
+#Condizioni {
+	list-style:none;
+	margin-left:50em;
+	position:absolute;
+	margin-top:-36.5px;
+}
+#Privacy {
+	position:absolute;
+	margin-left:70em;
+	margin-top:-53.7px;
+    list-style:none;
+}
+#Preferenze {
+	position:absolute;
+	 margin-left:7.5em;
+	  margin-top:-30px;
+	 list-style:none;
+}
+#Informazioni  {	
+	position:absolute;
+	margin-left:30em;
+	margin-top:-47px;
+	list-style:none;
+}
+footer p {
+	position:relative;
+	color:grey;
+	margin-left:10em;
+	padding-top:0.2em;
+	font-family:Helvetica;
+}
